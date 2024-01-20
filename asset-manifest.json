@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pagesmart/static/css/main.8e952bf3.css",
+    "main.js": "/pagesmart/static/js/main.92912eea.js",
+    "static/js/787.9ba11821.chunk.js": "/pagesmart/static/js/787.9ba11821.chunk.js",
+    "index.html": "/pagesmart/index.html",
+    "main.8e952bf3.css.map": "/pagesmart/static/css/main.8e952bf3.css.map",
+    "main.92912eea.js.map": "/pagesmart/static/js/main.92912eea.js.map",
+    "787.9ba11821.chunk.js.map": "/pagesmart/static/js/787.9ba11821.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e952bf3.css",
+    "static/js/main.92912eea.js"
+  ]
+}
